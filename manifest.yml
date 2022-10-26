@@ -1,0 +1,5 @@
+applications:
+  -   name: first
+      path: target/First_Application-0.0.1.jar
+      buildpacks:
+        - java_buildpack
