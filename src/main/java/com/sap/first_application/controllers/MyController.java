@@ -8,7 +8,7 @@ public class MyController {
     @GetMapping("wishMe")
     Object helloController()
     {
-        return "Hello Everyone!!";
+        return "Hello Everyone!! Good mrng";
     }
 
 }
